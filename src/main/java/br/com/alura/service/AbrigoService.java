@@ -30,7 +30,7 @@ public class AbrigoService {
         for (Abrigo abrigo : abrigoList) {
             long id = abrigo.getId();
             String nome = abrigo.getNome();
-            System.out.println(id +" - " +nome);
+            System.out.println(id + " - " + nome);
         }
     }
 

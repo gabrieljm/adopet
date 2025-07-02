@@ -42,7 +42,7 @@ public class PetService {
             String nome = pet.getNome();
             String raca = pet.getRaca();
             int idade = pet.getIdade();
-            System.out.println(id +" - " +tipo +" - " +nome +" - " +raca +" - " +idade +" ano(s)");
+            System.out.println(id + " - " + tipo + " - " + nome + " - " + raca + " - " + idade + " ano(s)");
         }
     }
 
